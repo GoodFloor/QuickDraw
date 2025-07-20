@@ -1,4 +1,4 @@
-# QuickDraw
+# Quick Draw
 *Quick Draw* is a reflex-based 2D dueling game developed using **Unreal Engine**, created as part of [*The Ultimate Unreal Engine 2D Game Development Course*](https://www.udemy.com/course/unreal-2d-course/) on **Udemy**, taught by **Cobra Code**.
 
 
